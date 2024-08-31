@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Abito-app/static/css/main.4775bb83.css",
-    "main.js": "/Abito-app/static/js/main.a2c1b827.js",
+    "main.js": "/Abito-app/static/js/main.2668cdae.js",
     "index.html": "/Abito-app/index.html",
     "main.4775bb83.css.map": "/Abito-app/static/css/main.4775bb83.css.map",
-    "main.a2c1b827.js.map": "/Abito-app/static/js/main.a2c1b827.js.map"
+    "main.2668cdae.js.map": "/Abito-app/static/js/main.2668cdae.js.map"
   },
   "entrypoints": [
     "static/css/main.4775bb83.css",
-    "static/js/main.a2c1b827.js"
+    "static/js/main.2668cdae.js"
   ]
 }
