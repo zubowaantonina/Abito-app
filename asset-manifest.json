@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4775bb83.css",
-    "main.js": "/react-gh-pages/static/js/main.885fe73b.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.4775bb83.css.map": "/react-gh-pages/static/css/main.4775bb83.css.map",
-    "main.885fe73b.js.map": "/react-gh-pages/static/js/main.885fe73b.js.map"
+    "main.css": "/Abito-app/static/css/main.4775bb83.css",
+    "main.js": "/Abito-app/static/js/main.a2c1b827.js",
+    "index.html": "/Abito-app/index.html",
+    "main.4775bb83.css.map": "/Abito-app/static/css/main.4775bb83.css.map",
+    "main.a2c1b827.js.map": "/Abito-app/static/js/main.a2c1b827.js.map"
   },
   "entrypoints": [
     "static/css/main.4775bb83.css",
-    "static/js/main.885fe73b.js"
+    "static/js/main.a2c1b827.js"
   ]
 }
